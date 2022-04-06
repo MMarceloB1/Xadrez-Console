@@ -14,3 +14,19 @@ C:\Users\Marce\Desktop\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-con
 C:\Users\Marce\Desktop\xadrez-console\xadrez-console\obj\Debug\net5.0\ref\xadrez-console.dll
 C:\Users\Marce\Desktop\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.pdb
 C:\Users\Marce\Desktop\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.exe
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.deps.json
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.runtimeconfig.json
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.runtimeconfig.dev.json
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.dll
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\bin\Debug\net5.0\ref\xadrez-console.dll
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.pdb
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.csproj.AssemblyReference.cache
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.dll
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\ref\xadrez-console.dll
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.pdb
+C:\Users\Marce\OneDrive\Área de Trabalho\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.genruntimeconfig.cache
